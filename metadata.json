@@ -1,0 +1,6 @@
+{
+  "name": "Baozi Momos - AI Manager (Palam Outlet)",
+  "description": "Central AI Manager for Baozi Momos (Palam Outlet) - contactless table ordering, kitchen KOT sync, and Google Review responder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
